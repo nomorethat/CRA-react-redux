@@ -11,6 +11,10 @@ export default function () {
         {
             id: 3,
             name: 'Mersedes'
+        },
+        {
+            id: 4,
+            name: 'VW'
         }
     ]
 }
